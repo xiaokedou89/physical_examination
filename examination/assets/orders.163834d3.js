@@ -1,0 +1,1 @@
+import{s as e}from"./index.481b1b11.js";function o(r){return e({url:"/order",method:"get",params:r})}function n(r){return e({url:`/order/${r}`,method:"get"})}function d(r){return e({url:"/order",method:"post",headers:{"content-type":"application/json"},data:r})}function s(r){return e({url:`/order/${r.id}`,method:"put",data:r})}export{n as a,o as g,d as p,s};

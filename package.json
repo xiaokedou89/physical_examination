@@ -1,0 +1,32 @@
+{
+  "name": "physical-examination",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build:prod": "vite build --mode production",
+    "build:dev": "vite build --mode development",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "element-plus": "^2.1.4",
+    "i18next": "^21.7.1",
+    "moment": "^2.29.2",
+    "sass": "^1.49.9",
+    "three": "^0.120.1",
+    "three-obj-mtl-loader": "^1.0.3",
+    "three-orbitcontrols": "^2.110.3",
+    "tween.js": "^16.6.0",
+    "vue": "^3.2.25",
+    "vue-i18n": "^9.2.0-beta.35",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2",
+    "wangeditor": "^4.7.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "normalize.css": "^8.0.1",
+    "vite": "^2.8.0"
+  }
+}

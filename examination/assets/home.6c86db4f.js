@@ -1,0 +1,1 @@
+import{_ as e}from"./index.481b1b11.js";import"./vendor.53736fc6.js";const r={name:"home",data(){return{mes:"test for home"}},created(){}};function t(o,a,n,s,c,m){return null}var f=e(r,[["render",t]]);export{f as default};
